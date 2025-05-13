@@ -1,0 +1,30 @@
+# .github/workflows/update-readme.yml
+name: 📈 Обновление README профиля
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # каждый день в 00:00 UTC
+  workflow_dispatch: # можно запустить вручную
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Клонирование репозитория
+        uses: actions/checkout@v3
+
+      - name: ⚙️ Обновление README
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: "header, repositories, activity, languages"
+          plugin_languages: yes
+          plugin_activity: yes
+
+      - name: 📤 Коммит изменений
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "🔄 auto: update profile"
+          git push
