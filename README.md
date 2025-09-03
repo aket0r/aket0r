@@ -69,26 +69,27 @@
 
 ## 📊 Моя активность и языки
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/aket0r">
-        <img src="https://github-readme-stats.vercel.app/api?username=aket0r&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/aket0r">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aket0r&layout=compact&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <p align="center">
-  <a href="https://github.com/aket0r">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aket0r&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aket0r&theme=github_dark" />
-  </a>
+  <!-- Статистика GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aket0r&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage,issues&hide=stars" alt="GitHub Stats" />
+
+  <!-- Самые популярные языки -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aket0r&layout=donut&theme=radical" alt="Языки в репозиториях" />
+</p>
+
+<p align="center">
+  <!-- Коммиты по языкам -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aket0r&theme=tokyonight" alt="Чаще всего коммитишь на..." />
+
+  <!-- Языки по количеству репозиториев -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aket0r&theme=tokyonight" alt="Количество реп на языке" />
+</p>
+
+<p align="center">
+  <!-- Граф активности -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aket0r&theme=github-compact" alt="Граф активности" />
 </p>
 
 ---
