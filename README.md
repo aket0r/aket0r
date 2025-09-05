@@ -109,7 +109,7 @@
     <tr>
       <td><strong>🔐 Passwords Manager</strong></td>
       <td>Менеджер паролей с красивым интерфейсом, шифрованием, тёмной темой, трей-режимом и редактированием записей.</td>
-      <td>Electron, Node.js, JavaScript</td>
+      <td>Electron, Node.js, JavaScript, MongoDB</td>
       <td><a href="https://github.com/aket0r/passwords_manager">🔗 GitHub</a></td>
     </tr>
     <tr>
