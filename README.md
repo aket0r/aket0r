@@ -123,8 +123,3 @@
   <img src="https://img.shields.io/badge/Discord-straordinarja-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: straordinarja" />
 </p>
 
----
-
-- 📧 **Gmail** — основная почта для связи и предложений.
-- 💬 **Telegram** — самый быстрый способ написать напрямую.
-- 🎮 **Discord** — ник для общения в сообществах и разработке.
