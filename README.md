@@ -1,22 +1,15 @@
-<h3>Привет! Меня зовут Антон — я самоучка и увлечённый fullstack-разработчик.</h3>  
-Свой путь я начал с JavaScript и сразу влюбился в его гибкость и выразительность.  
+<h1 align="center">Hello, I'm Anton 👋</h1>
 
-Больше всего мне нравится **создавать полезные приложения с нуля** — от идеи до реализации. Я получаю удовольствие от решения задач, изучения новых технологий и постоянного улучшения своего кода. Считаю, что лучше выложиться на практике, чем бесконечно изучать теорию без дела.
-
-💡 В своих проектах я стараюсь придерживаться принципов:
-- чистый и понятный код,
-- удобный интерфейс,
-- отзывчивость к обратной связи,
-- фокус на **реальной пользе для пользователя**.
-
-Я активно изучаю fullstack-разработку, разрабатываю десктоп-приложения на Electron, работаю с Node.js, MongoDB, UI-дизайном, API-интеграциями и автоматизацией.  
-Мои проекты — это не просто эксперименты, а **инструменты**, которыми я сам с удовольствием пользуюсь каждый день.
-
-Сейчас моя цель — продолжать развиваться, создавать более масштабные и стабильные решения, а также делиться своими наработками с другими.
+<p align="center">
+  I'm a self‑taught fullstack developer based in Budapest 🇭🇺.<br>
+  I love learning new technologies, building applications, and experimenting with interfaces.<br>
+  My favorite programming language is <strong>JavaScript</strong>.
+</p>
 
 ---
 
-## 🛠️ Технологии и интересы
+## 🛠️ Technologies & Interests
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
@@ -24,143 +17,108 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p> 
-<table> 
-  <tr> 
-    <td>
-      <strong>JavaScript</strong>
-    </td> 
-    <td>Мой любимый язык, с которого я начал путь. Использую его как на клиенте, так и в Node.js для создания интерактивных интерфейсов и серверной логики.
-    </td> 
-  </tr> 
-  <tr> 
-    <td>
-      <strong>Electron</strong>
-    </td> 
-    <td>Благодаря Electron создаю полноценные кроссплатформенные десктоп-приложения. Все мои проекты (например, Passwords Manager) построены на этой технологии.
-    </td> 
-  </tr> 
-  <tr> 
-    <td>
-      <strong>Node.js</strong>
-    </td> 
-    <td>Использую для работы с файловой системой, создания API и фоновыми задачами в своих приложениях. Хорошо разбираюсь в структуре пакетов и потоках.
-    </td> 
-  </tr> 
-  <tr> 
-    <td>
-      <strong>HTML & CSS</strong>
-    </td> 
-    <td>
-      Верстаю адаптивные интерфейсы. Люблю продумывать логику UI, придерживаясь чистого и удобного дизайна.
-    </td> 
-  </tr> 
-  <tr> 
-    <td>
-      <strong>MongoDB</strong>
-    </td> 
-    <td>
-      Работаю с документ-ориентированными базами данных. Использую MongoDB для хранения информации о пользователях и их данных.
-    </td> 
-  </tr> 
+</p>
+
+<table>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>My favorite language — used for both frontend and backend to build interactive interfaces and server logic.</td>
+  </tr>
+  <tr>
+    <td><strong>Electron</strong></td>
+    <td>Used to build cross‑platform desktop applications like Passwords Manager with tray support and custom UI.</td>
+  </tr>
+  <tr>
+    <td><strong>Node.js</strong></td>
+    <td>Used for filesystem work, APIs, background tasks and tooling in my apps.</td>
+  </tr>
+  <tr>
+    <td><strong>HTML & CSS</strong></td>
+    <td>Building responsive and clean interfaces with modern layout techniques and animations.</td>
+  </tr>
+  <tr>
+    <td><strong>MongoDB</strong></td>
+    <td>Document‑based database used for storing user data and application state.</td>
+  </tr>
 </table>
 
 ---
 
-## 📊 Моя активность и языки
-
-
+## 📊 My Activity & Languages
 
 <p align="center">
-  <!-- Статистика GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aket0r&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage,issues&hide=stars" alt="GitHub Stats" />
-
-  <!-- Самые популярные языки -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aket0r&layout=donut&theme=radical" alt="Языки в репозиториях" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aket0r&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aket0r&layout=donut&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Коммиты по языкам -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aket0r&theme=tokyonight" alt="Чаще всего коммитишь на..." />
-
-  <!-- Языки по количеству репозиториев -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aket0r&theme=tokyonight" alt="Количество реп на языке" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aket0r&theme=tokyonight" alt="Most Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aket0r&theme=tokyonight" alt="Repos Per Language" />
 </p>
 
 <p align="center">
-  <!-- Граф активности -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aket0r&theme=github-compact" alt="Граф активности" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aket0r&theme=github-compact" alt="Activity Graph" />
 </p>
 
 ---
 
-## 💡 Избранные проекты
+## 💡 Featured Projects
 
 <table>
   <thead>
     <tr>
-      <th>Проект</th>
-      <th>Описание</th>
-      <th>Технологии</th>
-      <th>Ссылка</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+      <th>Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>🔐 Passwords Manager</strong></td>
-      <td>Менеджер паролей с красивым интерфейсом, шифрованием, тёмной темой, трей-режимом и редактированием записей.</td>
-      <td>Electron, Node.js, JavaScript, MongoDB</td>
-      <td><a href="https://github.com/aket0r/passwords_manager">🔗 GitHub</a></td>
+      <td>A password manager with encryption, dark theme, tray mode and editable entries.</td>
+      <td>Electron, Node.js, JavaScript</td>
+      <td><a href="https://github.com/aket0r/passwords-manager">🔗 GitHub</a></td>
     </tr>
     <tr>
       <td><strong>📊 StartUp Tracker</strong></td>
-      <td>Приложение для отслеживания истории запусков Windows, IP-адресов и активных процессов. Сохраняет логи локально.</td>
+      <td>Tracks Windows startup history, IP addresses and running processes with local logs.</td>
       <td>Electron, JavaScript, SQLite</td>
       <td><a href="https://github.com/aket0r/startuptracker2">🔗 GitHub</a></td>
     </tr>
     <tr>
       <td><strong>💬 Remote Console Telegram</strong></td>
-      <td>Telegram-бот + UI APP для удалённого выполнения shell-команд. Удобен для удалённого администрирования.</td>
+      <td>Telegram bot for remotely executing shell commands and admin tasks.</td>
       <td>Node.js, Telegram API</td>
       <td><a href="https://github.com/aket0r/remote_console_telegram">🔗 GitHub</a></td>
     </tr>
     <tr>
       <td><strong>📶 WiFi Battery Status</strong></td>
-      <td>Мини-приложение для отображения заряда батареи и Wi-Fi статуса в виде виджета на рабочем столе.</td>
+      <td>Utility showing battery level and Wi‑Fi status in a widget‑like interface.</td>
       <td>Electron, JS, systeminformation</td>
       <td><a href="https://github.com/aket0r/wifi-battery-status">🔗 GitHub</a></td>
     </tr>
     <tr>
       <td><strong>📺 YTMP</strong></td>
-      <td>Утилита для ограничения использования приложения (процесса) по времени.</td>
-      <td>Node.js, ytdl-core, Electron</td>
+      <td>Tool for converting YouTube links to MP3/MP4 with a minimal UI and quality control.</td>
+      <td>Node.js, ytdl‑core, Electron</td>
       <td><a href="https://github.com/aket0r/YTMP">🔗 GitHub</a></td>
     </tr>
   </tbody>
 </table>
 
-
 ---
 
-## 📬 Контакты
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:aket0rreply@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-aket0rreply@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта для связи" />
+    <img src="https://img.shields.io/badge/Gmail‑aket0rreply@gmail.com‑D14836?style=for‑the‑badge&logo=gmail&logoColor=white" alt="Email Contact" />
   </a>
   &nbsp;
   <a href="https://t.me/ex0rd">
-    <img src="https://img.shields.io/badge/Telegram-@ex0rd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram" />
+    <img src="https://img.shields.io/badge/Telegram‑@ex0rd‑26A5E4?style=for‑the‑badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Discord-straordinarja-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: straordinarja" />
+  <img src="https://img.shields.io/badge/Discord‑straordinarja‑5865F2?style=for‑the‑badge&logo=discord&logoColor=white" alt="Discord Username" />
 </p>
-
----
-
-### 🧭 Где меня найти:
-
-- 📧 **Gmail** — основная почта для связи и предложений.
-- 💬 **Telegram** — самый быстрый способ написать напрямую.
-- 🎮 **Discord** — ник для общения в сообществах и разработке.
-
