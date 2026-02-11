@@ -113,12 +113,18 @@
 
 <p align="center">
   <a href="mailto:aket0rreply@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail‑aket0rreply@gmail.com‑D14836?style=for‑the‑badge&logo=gmail&logoColor=white" alt="Email Contact" />
+    <img src="https://img.shields.io/badge/Gmail-aket0rreply@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта для связи" />
   </a>
   &nbsp;
   <a href="https://t.me/ex0rd">
-    <img src="https://img.shields.io/badge/Telegram‑@ex0rd‑26A5E4?style=for‑the‑badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
+    <img src="https://img.shields.io/badge/Telegram-@ex0rd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Discord‑straordinarja‑5865F2?style=for‑the‑badge&logo=discord&logoColor=white" alt="Discord Username" />
+  <img src="https://img.shields.io/badge/Discord-straordinarja-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: straordinarja" />
 </p>
+
+---
+
+- 📧 **Gmail** — основная почта для связи и предложений.
+- 💬 **Telegram** — самый быстрый способ написать напрямую.
+- 🎮 **Discord** — ник для общения в сообществах и разработке.
