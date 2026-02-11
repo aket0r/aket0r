@@ -47,8 +47,8 @@
 ## 📊 My Activity & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aket0r&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aket0r&layout=donut&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aket0r&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage,issues&hide=stars" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aket0r&layout=donut&theme=radical" alt="Языки в репозиториях" />
 </p>
 
 <p align="center">
