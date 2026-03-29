@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Anton 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
 <p align="center">
   I'm a self‑taught fullstack developer based in Budapest 🇭🇺.<br>
